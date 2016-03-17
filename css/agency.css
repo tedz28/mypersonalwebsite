@@ -560,6 +560,7 @@ section#contact {
 }
 section#contact .section-heading {
   color: white;
+  text-transform: none;
 }
 section#contact .form-group {
   margin-bottom: 25px;
